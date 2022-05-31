@@ -233,6 +233,53 @@ height: 565px;
   box-shadow: 0px 0px 77px #0000000f;
   border-radius: 15px;
 }
+
+.servises-box-info-first-img
+{
+  width: 76px;
+  height: 76px;
+  background-image: url("../image/Career-Counselling.svg");
+  background-repeat: no-repeat;
+}
+
+.servises-box-info-sekond-img
+{
+  width: 76px;
+  height: 76px;
+  background-image: url("../image/univ-addmis.svg");
+  background-repeat: no-repeat;
+}
+
+.servises-box-info-thirt-img
+{
+  width: 76px;
+  height: 76px;
+  background-image: url("../image/Visa-Consultancy.svg");
+  background-repeat: no-repeat;
+}
+
+.servises-box-info-forth-img
+{
+  width: 76px;
+  height: 76px;
+  background-image: url("../image/Accommodation.svg");
+  background-repeat: no-repeat;
+}
+
+.servises-box-info-fifs-img
+{
+  width: 76px;
+  height: 76px;
+  background-image: url("../image/Pre-Departure.svg");
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
 .services-box-info-sekond
 {
   margin:0 47px;
@@ -604,6 +651,20 @@ color: #37474fb8;
 
 .card {
 display: flex;
+}
+
+.card-first-img
+{
+  width: 62px;
+  height: 62px;
+  background-image: url("../image/harrison.jpg");
+}
+
+.card-sekond-img
+{
+  width: 62px;
+  height: 62px;
+  background-image: url("../image/ainara.jpg");
 }
 
 .card-text
